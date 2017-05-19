@@ -13,7 +13,7 @@ Plugin 'VundleVim/Vundle.vim'
 " Nerd Tree Harish 
 Plugin 'scrooloose/nerdtree'
 " Syntastic for python syntax checking 
-Plugin 'scrooloose/syntastic
+Plugin 'scrooloose/syntastic'
 " flake 8 for PEP 8 python checking 
 Plugin 'nvie/vim-flake8'
 " make code look pretty 
@@ -23,8 +23,6 @@ Plugin 'jnurmine/Zenburn'
 Plugin 'jistr/vim-nerdtree-tabs'
 " Enable search 
 Plugin 'kien/ctrlp.vim'
-" Git integration 
-Plugin 'tpope/vim-fugitive'
 " Powerline status bar 
 Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 

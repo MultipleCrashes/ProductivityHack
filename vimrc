@@ -10,8 +10,25 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 
-" Nerd Tree Harish
+" Nerd Tree Harish 
 Plugin 'scrooloose/nerdtree'
+" Syntastic for python syntax checking 
+Plugin 'scrooloose/syntastic
+" flake 8 for PEP 8 python checking 
+Plugin 'nvie/vim-flake8'
+" make code look pretty 
+let python_hightlight_all=1 
+Plugin 'jnurmine/Zenburn'
+" Nerdtree tabs
+Plugin 'jistr/vim-nerdtree-tabs'
+" Enable search 
+Plugin 'kien/ctrlp.vim'
+" Git integration 
+Plugin 'tpope/vim-fugitive'
+" Powerline status bar 
+Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
+
+
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.

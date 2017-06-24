@@ -17,3 +17,4 @@ sudo apt-get install python-dev python3-dev
 git clone https://github.com/Valloric/YouCompleteMe.git ~/.vim/bundle/
 cd ~/.vim/bundle
 git submodule update --init --recursive
+./install.py

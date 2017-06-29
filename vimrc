@@ -28,7 +28,35 @@ Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 Plugin 'Vimjas/vim-python-pep8-indent'
 " Vim background color 
 Plugin 'chriskempson/base16-vim'
-" 80 Characters 
+" 80 Characters
+
+ 
+
+Plugin 'python_fold_compact'                              
+Plugin 'python-imports.vim'                               
+Plugin 'vim-python-virtualenv'                            
+Plugin 'Python-Syntax'                                    
+Plugin 'Twilight-for-python'                              
+Plugin 'Python-mode-klen'                                 
+Plugin 'vim-ipython'                                      
+Plugin 'Python-2.x-Standard-Library-Reference'            
+Plugin 'pythondo'                                         
+Plugin 'python-tag-import'                                
+Plugin 'Dictionary-file-for-Luxology-Modo-Python'         
+Plugin 'python_coverage.vim'                              
+Plugin 'jpythonfold.vim'                                  
+Plugin 'python_open_module'                               
+Plugin 'Python-Syntax-Folding'                            
+Plugin 'Python-Documentation'                             
+Plugin 'sort-python-imports'                              
+Plugin 'python_ifold'                                     
+Plugin 'python_import.vim'                                
+Plugin 'pythoncomplete'                                   
+Plugin 'Efficient-python-folding'                         
+Plugin 'python_calltips'                                  
+Plugin 'python-tools'                                     
+Plugin 'python_fold'                                      
+
 set textwidth=80 
 set colorcolumn=+1 
 
@@ -92,3 +120,5 @@ try
 catch
 endtry
 set background=dark
+let g:ycm_global_ycm_extra_conf='~/.ycm_extra_conf.py'
+let g:NERDTreeDirArrows=0

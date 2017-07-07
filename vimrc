@@ -8,7 +8,7 @@ call vundle#begin()
 "call vundle#begin('~/some/path/here')
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
-
+colorscheme morning 
 " Nerd Tree Harish 
 Plugin 'scrooloose/nerdtree'
 " Syntastic for python syntax checking 
@@ -30,7 +30,7 @@ Plugin 'Vimjas/vim-python-pep8-indent'
 Plugin 'chriskempson/base16-vim'
 " 80 Characters
 
- 
+" Python Plugins  
 
 Plugin 'python_fold_compact'                              
 Plugin 'python-imports.vim'                               
@@ -56,6 +56,34 @@ Plugin 'Efficient-python-folding'
 Plugin 'python_calltips'                                  
 Plugin 'python-tools'                                     
 Plugin 'python_fold'                                      
+Plugin 'Ambient-Theme'
+Plugin 'Colour-theme-neon-pk' 
+Plugin 'DevEiate-theme'
+Plugin 'CompleteHelper'
+
+" Git plugins
+
+Plugin 'gitvimrc.vim'
+Plugin 'git-diff'
+Plugin 'git-time-lapse'
+Plugin 'git_patch_tags.vim'
+Plugin 'gitv'
+Plugin 'gitview'
+Plugin 'fugitive.vim'
+Plugin 'hypergit.vim'
+Plugin 'gitolite.vim'
+Plugin 'github-theme'
+Plugin 'git-cheat'
+Plugin 'blogit.vim'
+Plugin 'gitignore'
+Plugin 'metarw-git'
+Plugin 'Git-Branch-Info'
+Plugin 'git-file.vim'
+Plugin 'gitvimdiff'
+Plugin 'git-commit'
+Plugin 'gitdiff.vim'
+Plugin 'git.zip'
+Plugin 'FlagIt' 
 
 set textwidth=80 
 set colorcolumn=+1 

@@ -23,7 +23,7 @@ Plugin 'jistr/vim-nerdtree-tabs'
 " Enable search 
 Plugin 'kien/ctrlp.vim'
 " Powerline status bar 
-Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
+Plugin 'Lokaltog/powerline'
 " Python PEP 8 plugin 
 Plugin 'Vimjas/vim-python-pep8-indent'
 " Vim background color 

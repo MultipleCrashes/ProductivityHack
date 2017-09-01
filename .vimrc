@@ -31,7 +31,8 @@ Plugin 'chriskempson/base16-vim'
 " 80 Characters
 
 " Python Plugins  
-
+" For extra whitespace
+Plugin 'ntpeters/vim-better-whitespace'
 Plugin 'python_fold_compact'                              
 Plugin 'python-imports.vim'                               
 Plugin 'vim-python-virtualenv'                            

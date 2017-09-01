@@ -16,6 +16,11 @@ touch ~/.vimrc
 
 sudo apt-get install build-essential cmake
 sudo apt-get install python-dev python3-dev
+sudo apt-get install git-core 
+sudo apt-get install python-virtualenv
 
 git clone https://github.com/Valloric/YouCompleteMe.git ~/.vim/bundle/
+
+# For git diff + and - 
+git clone git://github.com/airblade/vim-gitgutter.git ~/.vim/bundle
 

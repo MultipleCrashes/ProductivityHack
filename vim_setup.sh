@@ -20,10 +20,10 @@ sudo apt-get install python-dev python3-dev
 sudo apt-get install git-core 
 sudo apt-get install -y virtualenvwrapper python-virtualenv python-pip
 
-git clone https://github.com/Valloric/YouCompleteMe.git ~/.vim/bundle/
+cd ~/.vim/bundle/ && git clone https://github.com/Valloric/YouCompleteMe.git 
 
 # For git diff + and - 
-git clone git://github.com/airblade/vim-gitgutter.git ~/.vim/bundle
+cd ~/.vim/bundle/ && git clone git://github.com/airblade/vim-gitgutter.git
 
 # Vim sensible 
-git clone git://github.com/tpope/vim-sensible.git ~/.vim/bundle
+cd ~/.vim/bundle/ && git clone git://github.com/tpope/vim-sensible.git 

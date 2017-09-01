@@ -13,7 +13,8 @@ touch ~/.vimrc
 
 
 # Install YouCompleteMe 
-
+sudo apt-get -y install openssh-server
+sudo apt-get -y install vim 
 sudo apt-get install build-essential cmake
 sudo apt-get install python-dev python3-dev
 sudo apt-get install git-core 

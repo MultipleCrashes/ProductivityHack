@@ -24,3 +24,5 @@ git clone https://github.com/Valloric/YouCompleteMe.git ~/.vim/bundle/
 # For git diff + and - 
 git clone git://github.com/airblade/vim-gitgutter.git ~/.vim/bundle
 
+# Vim sensible 
+git clone git://github.com/tpope/vim-sensible.git ~/.vim/bundle

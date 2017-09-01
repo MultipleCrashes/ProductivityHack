@@ -62,7 +62,7 @@ Plugin 'DevEiate-theme'
 Plugin 'CompleteHelper'
 
 " Git plugins
-
+Plug 'airblade/vim-gitgutter'
 Plugin 'gitvimrc.vim'
 Plugin 'git-diff'
 Plugin 'git-time-lapse'

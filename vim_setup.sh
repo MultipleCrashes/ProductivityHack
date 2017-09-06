@@ -5,7 +5,7 @@
 (cd /tmp && git clone --depth 1 --config core.autocrlf=false https://github.com/twolfson/sexy-bash-prompt && cd sexy-bash-prompt && make install) && source ~/.bashrc
 # Below command downloads and installs vim in ~/vim/bundle/Vundle.vim directory 
 
-git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 cd ~/.vim/bundle
 git submodule update --init --recursive
 ./install.py

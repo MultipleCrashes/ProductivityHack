@@ -121,6 +121,7 @@ filetype plugin indent on    " required
 
 set hlsearch                   " highlight searched word
 set incsearch                  " search as the characters are enterd
+set relativenumber             " set relative number
 set number                     " set line number
 set showcmd                    " show previous command in bottom bar
 set cursorline                 " highligth current line with underline

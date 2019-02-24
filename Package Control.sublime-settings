@@ -1,0 +1,48 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"Anaconda",
+		"Auto Close HTML Tags",
+		"auto-save",
+		"AutoDocstring",
+		"AutoImport",
+		"AutoPEP8",
+		"Autotools",
+		"Bracketeer",
+		"BracketHighlighter",
+		"DocBlockr",
+		"FileIcons",
+		"Git Mode",
+		"GitAutoCommit",
+		"GitCommitMsg",
+		"GitDiffHelper",
+		"GitGutter",
+		"Github Notifications",
+		"Github Tools",
+		"gitp",
+		"GitStatus",
+		"GitTimeMetric",
+		"IPython Notebook",
+		"Jedi - Python autocompletion",
+		"JSLint",
+		"Material Theme",
+		"Materialize",
+		"Package Control",
+		"Pylinter",
+		"Python Checker",
+		"Python Completions",
+		"Python Fix Imports",
+		"Python Flake8 Lint",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimePythonIDE",
+		"SuperPython",
+		"Virtualenv"
+	]
+}
